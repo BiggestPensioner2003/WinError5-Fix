@@ -9,5 +9,8 @@ password to a zip is: 'DCKiZ2025',
 
 I hope I helped :)
 
+hotfix: you may have to run the MBRMonitor file yourself from the resources folder (as administrator)
+
+
 DCKiZ Team.
 
