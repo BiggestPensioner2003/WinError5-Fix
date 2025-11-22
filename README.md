@@ -3,7 +3,8 @@ WinError 5 &amp; Unhandled exception in script universal Fix.
 
 this script simply fixes winError &amp; and Unhandled exception error
 
-password 'DCKiZ2025'
+password to a zip file 'DCKiZ2025'
+please read the readme.txt included in the zip
 
 I hope I helped :)
 
